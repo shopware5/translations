@@ -1,0 +1,39 @@
+{
+    "label": {
+        "de": "Polnisches Sprachplugin",
+        "en": "Polish translation"
+    },
+    "description": "<div style='padding-bottom:12px;color:999;'><strong style='font-weight:bold'>Swag Poland<\/strong> - Polish translation for Shopware 5<br \/><br \/>This translation plugin was created by our dedicated community members via our Crowdin project<br \/><br \/>Top contributors:<ul><li>dnhsoft1 - 8244 translations<\/li><li>Martin Kafadarov (mkafadarov) - 40 translations<\/li><\/ul><br \/>Found a faulty translation? Want to help us bring Shopware to even more countries? Visit our <a target='_blank' href='https:\/\/crowdin.com\/project\/shopware'>Crowdin project page<\/a> and contribute.<\/div>",
+    "copyright": "(c) by Shopware AG",
+    "license": "proprietary",
+    "link": "http:\/\/store.shopware.com",
+    "author": "Shopware AG",
+    "currentVersion": "1.2.6",
+    "changelog": {
+        "de": {
+            "1.2.6": "PT-10786 - Snippet updates;",
+            "1.2.5": "PT-9693, PT-10319 - 2019-04-01 Update der Übersetzungen;",
+            "1.2.4": "2018-10-02 Update der Übersetzungen; PT-8084, PT-8970 - Korrektur einiger Snippets;",
+            "1.2.3": "PT-8084 - Links im First-Run-Wizard korrigiert;",
+            "1.2.2": "2017-06-29 Update der Übersetzungen;",
+            "1.2.1": "Fehlende snippets hinzugefügt",
+            "1.2.0": "2017-04-26 Synchronisation von Übersetzungen mit Crowdin",
+            "1.0.0": "PT-7289 - Initiale Veröffentlichung"
+        },
+        "en": {
+            "1.2.6": "PT-10786 - Snippet updates;",
+            "1.2.5": "PT-9693, PT-10319 - 2019-04-01 Updated translations;",
+            "1.2.4": "2018-10-02 Updated translations; PT-8084, PT-8970 - Fixed several snippets;",
+            "1.2.3": "PT-8084 - Fixed links in First-Run-Wizard;",
+            "1.2.2": "2017-06-29 Updated the translations;",
+            "1.2.1": "Add missing snippets",
+            "1.2.0": "2017-04-26 Synchronized translations with Crowdin",
+            "1.0.0": "PT-7289 - Initial release"
+        }
+    },
+    "compatibility": {
+        "minimumVersion": "5.3.0",
+        "maximumVersion": "5.99.99",
+        "blacklist": []
+    }
+}

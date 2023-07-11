@@ -1,0 +1,64 @@
+{
+    "label": {
+        "de": "Französische Übersetzung",
+        "en": "French translation"
+    },
+    "copyright": "(c) by Shopware AG",
+    "license": "proprietary",
+    "link": "http:\/\/store.shopware.com",
+    "author": "Shopware AG",
+    "currentVersion": "1.2.9",
+    "changelog": {
+        "de": {
+            "1.2.9": "2019-04-01 PT-9693, PT-10319: Update der Übersetzungen;",
+            "1.2.8": "2018-10-02 Update der Übersetzungen;",
+            "1.2.7": "PT-9017 - Fehlerhaftes Snippet repariert;",
+            "1.2.6": "2018-03-01 Crowdin Snippets geupdatet;",
+            "1.2.5": "2018-02-27 Kaputtes Snippet behoben;",
+            "1.2.4": "2017-09-19 Crowdin Snippets geupdatet;",
+            "1.2.3": "PT-8084 - Links im First-Run-Wizard korrigiert;",
+            "1.2.2": "2017-06-29 Update der Übersetzungen;",
+            "1.2.1": "Fehlende snippets hinzugefügt",
+            "1.2.0": "2017-04-26 Synchronisation von Übersetzungen mit Crowdin",
+            "1.1.9": "PT-7671 - Bugfix: Update der Übersetzungen;",
+            "1.1.8": "PT-6745 - Bugfix: Falsche Darstellung von Apostrophen;",
+            "1.1.7": "PT-5750 - Feature: Update der Übersetzungen; PT-6301 - Bugfix: Nutzung von LESS;",
+            "1.1.6": "PT-6183 - Feature: Update der Übersetzungen;",
+            "1.1.5": "PT-5264 - Feature: Update der Übersetzungen;",
+            "1.1.4": "PT-4117 - Bugfix: Übersetzung für Bonussystem;",
+            "1.1.3": "PT-4054 - Bugfix: Update der Übersetzungen;",
+            "1.1.2": "PT-3875 - Bugfix: Kleiner Codestylefehler;",
+            "1.1.1": "PT-3375, PT-3445 - Bugfix: Snippetformat korrigiert;",
+            "1.1.0": "Shopware 5 Übersetzungen hinzugefügt",
+            "1.0.1": "Fixt das Template und ergänzt übersetzungen;Cache kann nun geöffnet werden.;"
+        },
+        "en": {
+            "1.2.9": "2019-04-01 PT-9693, PT-10319: Updated translations;",
+            "1.2.8": "2018-10-02 Updated translations;",
+            "1.2.7": "PT-9017 - Fix broken snippet;",
+            "1.2.6": "2018-03-01 Updated crowdin snippets;",
+            "1.2.5": "2018-02-27 Fixed broken snippet;",
+            "1.2.4": "2017-09-19 Updated crowdin snippets;",
+            "1.2.3": "PT-8084 - Fixed links in First-Run-Wizard;",
+            "1.2.2": "2017-06-29 Updated the translations;",
+            "1.2.1": "Add missing snippets",
+            "1.2.0": "2017-04-26 Synchronized translations with Crowdin",
+            "1.1.9": "PT-7671 - Bugfix: Updated the translations;",
+            "1.1.8": "PT-6745 - Bugfix: Wrong displaying of apostrophes;",
+            "1.1.7": "PT-5750 - Feature: Updated the translations; PT-6301 - Bugfix: Use LESS;",
+            "1.1.6": "PT-6183 - Feature: Updated the translations;",
+            "1.1.5": "PT-5264 - Feature: Updated the translations;",
+            "1.1.4": "PT-4117 - Bugfix: Translation for Bonussystem;",
+            "1.1.3": "PT-4054 - Bugfix: Update of translations;",
+            "1.1.2": "PT-3875 - Bugfix: Minor code style issue;",
+            "1.1.1": "PT-3375, PT-3445 - Bugfix: Fixed snippet format;",
+            "1.1.0": "Added Shopware 5 translations",
+            "1.0.1": "Fixed the template and complete the translations;Cache can opened.;"
+        }
+    },
+    "compatibility": {
+        "minimumVersion": "5.3.0",
+        "maximumVersion": null,
+        "blacklist": []
+    }
+}

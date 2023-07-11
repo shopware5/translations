@@ -1,0 +1,30 @@
+{
+    "label": {
+        "de": "Schweizerdeutsch Übersetzung",
+        "en": "Swiss german translation"
+    },
+    "description": {
+        "de": "<div style='padding-bottom:12px;color:999;'><strong style='font-weight:bold'>SwagSwizerlandGerman</strong> - Schweizerdeutsch Übersetzung für Shopware 5<br/><br/>Dieses Übersetzungs-Plugin wurde von unseren engagierten Community-Mitgliedern über unser Crowdin-Projekt erstellt.<br/>Eine fehlerhafte Übersetzung gefunden? Möchtest Du uns helfen, Shopware in noch mehr Länder zu bringen? Besuche unsere <a target='_blank' href='https://crowdin.com/project/shopware'>Crowdin Projektseite</a> und trage dazu bei.</div>",
+        "en": "<div style='padding-bottom:12px;color:999;'><strong style='font-weight:bold'>SwagSwizerlandGerman</strong> - Swiss german translation for Shopware 5<br/><br/>This translation plugin was created by our dedicated community members via our Crowdin project<br/>Found a faulty translation? Want to help us bring Shopware to even more countries? Visit our <a target='_blank' href='https://crowdin.com/project/shopware'>Crowdin project page</a> and contribute.</div>"
+    },
+    "copyright": "(c) by Shopware AG",
+    "license": "MIT",
+    "link": "http:\/\/store.shopware.com",
+    "author": "Shopware AG",
+    "currentVersion": "1.0.1",
+    "changelog": {
+        "de": {
+            "1.0.1": "PT-10319 - 2019-04-01 Update der Übersetzungen;",
+            "1.0.0": "PT-9767 - Erstveröffentlichung;"
+        },
+        "en": {
+            "1.0.1": "PT-10319 - 2019-04-01 Updated translations;",
+            "1.0.0": "PT-9767 - Initial release;"
+        }
+    },
+    "compatibility": {
+        "minimumVersion": "5.4.5",
+        "maximumVersion": null,
+        "blacklist": []
+    }
+}

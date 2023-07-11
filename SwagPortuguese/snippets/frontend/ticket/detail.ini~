@@ -1,0 +1,9 @@
+[pt_PT]
+TicketDetailInfoAnswer="A sua resposta"
+TicketDetailInfoEmpty="Não existe nenhuma entrada com esta ID."
+TicketDetailInfoQuestion="O seu pedido de suporte"
+TicketDetailInfoShopAnswer="A nossa resposta"
+TicketDetailInfoStatusClose="Este pedido de suporte foi encerrado."
+TicketDetailInfoStatusProgress="Este pedido de suporte está em curso."
+TicketDetailInfoTicket="Detalhes sobre o pedido de suporte"
+TicketDetailLinkBack="Anterior"
