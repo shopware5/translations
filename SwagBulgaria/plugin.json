@@ -5,7 +5,7 @@
     },
     "description": "<div style='padding-bottom:12px;color:999;'><strong style='font-weight:bold'>Swag Bulgaria<\/strong> - Bulgarian translation for Shopware 5<br \/><br \/>This translation plugin was created by our dedicated community members via our Crowdin project<br \/><br \/>Top contributors:<ul><li>dnhsoft1 - 8244 translations<\/li><li>Martin Kafadarov (mkafadarov) - 40 translations<\/li><\/ul><br \/>Found a faulty translation? Want to help us bring Shopware to even more countries? Visit our <a target='_blank' href='https:\/\/crowdin.com\/project\/shopware'>Crowdin project page<\/a> and contribute.<\/div>",
     "copyright": "(c) by Shopware AG",
-    "license": "proprietary",
+    "license": "MIT",
     "link": "http:\/\/store.shopware.com",
     "author": "Shopware AG",
     "currentVersion": "1.1.5",
